@@ -1,0 +1,4 @@
+Load historical cash flow data from a CSV file Visualize the historical cash flow data to understand its patterns Split the data into training and testing sets (80% training, 20% testing).
+Build and train an ARIMA model on the training data Make predictions on the test set Evaluate the model's performance using Mean Squared Error (MSE).
+Implement functionality to load historical cash flow data, visualize it, split it into training and testing sets, build and train an ARIMA model, make predictions, and evaluate the model's performance.
+
